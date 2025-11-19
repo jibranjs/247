@@ -2,7 +2,7 @@
 const information = [
     {
         icon: "mdi:taxi",
-        name: "Guaranteed Vehicles",
+        name: "Guaranteed Vehicles. Test",
         para: "Ensures you get a car even at the busiest times."
     },
     {

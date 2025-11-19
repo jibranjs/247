@@ -1,10 +1,9 @@
 <script setup>
+
 import HeroComponent from '@/components/HomePage/HeroComponent.vue';
-
-
+import WhyChoose from '@/components/HomePage/whyChoose.vue';
 </script>
-<template>
-    
+<template>    
     <HeroComponent />
-
+    <WhyChoose />
 </template>
